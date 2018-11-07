@@ -8,5 +8,5 @@ my deep learning experiments
 **flowers_classification_98.4.ipynb** applies finetuned Xception network for classifying flowers and achieved more than 
 **98%** accuracy
 
-**traffic_sign_lenet.ipynb** classifies traffic signs(german traffic sign dataset) using a convolutional neural network train from scratch. Data augmentation helps the classifier to improve the test set accuracy(**more than 98%**).
+**traffic_sign_lenet.ipynb** classifies traffic signs(german traffic sign dataset) using a convolutional neural network trained from scratch. Data augmentation helps the classifier to improve the test set accuracy(**more than 98%**).
 
