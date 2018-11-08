@@ -10,7 +10,9 @@ my deep learning experiments
 
 **traffic_sign_lenet.ipynb** classifies traffic signs(german traffic sign dataset) using a convolutional neural network trained from scratch. Data augmentation helps the classifier to improve the test set accuracy(**more than 98%**).
 
-**Autoencoder.ipynb** implements normal autoencoder network(a network reconstructs its input) and denoising autoencoder(network recostructs its real input from noisy data)
+**Autoencoder.ipynb** implements normal autoencoder network(a network that can reconstruct its input) and denoising autoencoder(it reconstructs its real input from noisy data)
+
+**VAEColab.ipynb** implements Variational autoencoder network, applied on MNIST dataset
 
 
 
