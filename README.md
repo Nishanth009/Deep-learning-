@@ -1,7 +1,7 @@
 # Deep-learning-
 my deep learning experiments
 
-**catvsDog.ipynb** applies fine tuning and transfer learning on vgg network for cat and dog classification from images 
+**catvsDog.ipynb** applies fine tuning and transfer learning on vgg network for cat and dog classification 
 
 **catvsDog_resnet.ipynb** applies finetuned Resnet Model for cat and dog prediction, Which achives accuracy of more than **99%** accuracy
 
@@ -15,6 +15,8 @@ my deep learning experiments
 **VAEcolab.ipynb** implements Variational autoencoder network, applied on MNIST dataset
 
 **GANcolab.ipynb** implements Generative Adverserial network, that reconstructs its input. MNIST dataset is used as input.
+
+**GradCamALL.ipynb** implements gradcam, which is used to visualize the important parts of image that influenced CNN prediction.This implementaion works with most of the pretrained CNNs available.
 
 
 
