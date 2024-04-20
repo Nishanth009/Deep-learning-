@@ -1,6 +1,8 @@
 # Deep-learning-
 my deep learning experiments
 
+**SAM(Segment Anything Model)** Segment images without training seperatly. Use box/points as guidence
+
 **catvsDog.ipynb** applies fine tuning and transfer learning on vgg network for cat and dog classification 
 
 **catvsDog_resnet.ipynb** applies finetuned Resnet Model for cat and dog prediction, Which achives accuracy of more than **99%** accuracy
